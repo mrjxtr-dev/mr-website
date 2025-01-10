@@ -861,7 +861,20 @@ pre {
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
     flex-grow: 1;
-    max-width: 100%; }
+    max-width: 100%;
+    }
+    .col-md.about{
+      max-width: 275px;
+    }
+    .col-md.links {
+      max-width: 225px;
+    }
+    .col-md.services {
+      max-width: 250px;
+    }
+    .col-md.questions{
+      max-width: fit-content;
+    }
   .col-md-auto {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
