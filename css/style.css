@@ -8934,7 +8934,7 @@ h1, h2, h3, h4, h5,
 
 .ftco-hireme {
   background: #ffbd39;
-  z-index: -1; }
+  z-index: 0; }
   .ftco-hireme h2 {
     color: #fff;
     font-size: 40px;
@@ -9260,7 +9260,7 @@ textarea.form-control {
 
 #section-counter {
   position: relative;
-  z-index: 0; }
+  z-index: 1; }
 
 @media (max-width: 1199.98px) {
   .ftco-counter {
